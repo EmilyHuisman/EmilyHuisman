@@ -3,18 +3,17 @@
 
 👩‍💻Aspiring Software Engineer!
 
-<ins>🎯 Featured Project: Data Analysis for American Airlines (*link your project README)</ins>
+<ins>🎯 Featured Project: Data Analysis for American Airlines</ins>
 - **What We Did:** Extracted and discretized a 5% stratified sample using SQL queries in Snowflake, conducted statistical modeling in SciPy to fit and compare distribution families, and trained a feedforward neural network in PyTorch using synthetic data augmentation and hyperparameter tuning to stabilize and optimize performance
 - **Tools:** Python, JuypterNotebooks, SciPy, Pytorch, SQL, Snowflake
 - **Result:** Achieved an R² of 0.9568 and built a UI to visualize predictions, enabling American Airlines staff to improve operational planning
-Curious? See the full project here (*link your project README).
 
 <ins>🛠 Tech Stack:</ins>
 - **Languages:** Python, Java
-- **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
+- **Data Science:** TensorFlow, PyTorch
 - **Web Dev:** HTML
 - **Tools:** Jupyter Notebooks
-- **Libraries & Frameworks:** Selenium, Jsoup, iText
+- **Libraries & Frameworks:**  scikit-learn, Pandas, NumPy, matplotlib, Selenium, Jsoup, iText
 - **Databases:** SQL, Snowflake
 
 <ins>🔭 I’m currently working on:</ins>
