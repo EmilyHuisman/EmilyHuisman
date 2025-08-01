@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Emily!
+🎓 Sophmore at Emory University, Studying Computer Science, Applied Mathematics, and Statistics
 
-<!--
-**EmilyHuisman/EmilyHuisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻Aspiring Software Engineer!
 
-Here are some ideas to get you started:
+<ins>🎯 Featured Project: Data Analysis for American Airlines (*link your project README)</ins>
+- **What We Did:** Extracted and discretized a 5% stratified sample using SQL queries in Snowflake, conducted statistical modeling in SciPy to fit and compare distribution families, and trained a feedforward neural network in PyTorch using synthetic data augmentation and hyperparameter tuning to stabilize and optimize performance
+- **Tools:** Python, JuypterNotebooks, SciPy, Pytorch, SQL, Snowflake
+- **Result:** Achieved an R² of 0.9568 and built a UI to visualize predictions, enabling American Airlines staff to improve operational planning
+Curious? See the full project here (*link your project README).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ins>🛠 Tech Stack:</ins>
+- **Languages:** Python, Java
+- **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
+- **Web Dev:** HTML
+- **Tools:** Jupyter Notebooks
+- **Libraries & Frameworks:** Selenium, Jsoup, iText
+- **Databases:** SQL, Snowflake
+
+<ins>🔭 I’m currently working on:</ins>
+
+**Academic Planning Tool:** I’m building an interactive academic planning tool that generates personalized course schedules and graduation timelines based on users’ majors and completed coursework. The tool features:
+- Web-scraping of course and academic data, Input validation, exception handling, course filtering algorithm, PDF export functionality
+- **Tech Stack:** Java, Selenium WebDriver, Jsoup, iText, HTML
+
+This project aims to simplify academic planning and help students stay on track toward graduation.
+
+<ins>👯 I’m looking to collaborate on:</ins>
+
+As an aspiring software engineer, I'm eager to collaborate on projects where I can grow, learn, and make meaningful contributions. I’m actively seeking internship opportunities that challenge me and help me develop as a developer. 
+
+<ins>📫 How to Reach Me:</ins>
+- **Email:** emily.huisman@emory.edu
+- **LinkedIn:** https://www.linkedin.com/in/emilyhuisman/
+
+<ins>✨ Fun Fact:</ins>
+
+☕ I’m a coffee enthusiast who spent two years as a Starbucks barista — now I’m on a mission to visit as many local cafes as possible. 🏃‍♀️ I also love long-distance challenges and am currently training for the Houston Marathon, aiming to qualify for Boston!
