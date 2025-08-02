@@ -34,4 +34,4 @@ As an aspiring software engineer, I'm eager to collaborate on projects where I c
 
 <ins>✨ Fun Fact:</ins>
 
-☕ I’m a coffee enthusiast who spent two years as a Starbucks barista — now I’m on a mission to visit as many local cafes as possible. 🏃‍♀️ I also love long-distance challenges and am currently training for the Houston Marathon, aiming to qualify for Boston!
+☕ I LOVE coffee and even spent two years as a Starbucks barista — now I’m on a mission to visit as many local cafes as possible. 🏃‍♀️ I'm also super into long-distance challenges and am currently training for the Houston Marathon, aiming to qualify for Boston!
